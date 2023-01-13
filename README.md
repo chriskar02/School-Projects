@@ -1,1 +1,1 @@
-# School-c-projects
+# School-c++-projects
