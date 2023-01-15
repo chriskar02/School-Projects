@@ -2,3 +2,4 @@
 
 bstree: Binary search tree implementation
 chessboard: Checks if a square is black or white(object oriented test)
+gas: Calculates path and fill-ups of a car through cities represented with a graph
