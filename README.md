@@ -7,3 +7,4 @@ format: Formats text input with spaces and line changes
 gas: Calculates path and fill-ups of a car through cities represented with a graph
 lexicon2.0: Lexicon as a dynamic binary search tree(with search and word frequency functions)
 moveforward: Dynamic list with added functions
+palin: Checks if a string is a palindrome
